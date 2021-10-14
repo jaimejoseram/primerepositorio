@@ -1,0 +1,32 @@
+<?xml version "1.0" encoding "8-UFT"?>
+<!--Ejercicio 8-->
+<peliculas nombre="AQUELLAS JUERGAS UNIVERSITARIAS">
+    <pelicula xmlns:pelicula="http://www.oldschool-themovie.com/">
+    <titulo_original>old school.</titulo_original>
+    <duracion origen="EEUU">93 min</duracion>
+    <director>Todd Philips</director>
+    <interpretes>
+        <nombre>Will Ferrell, Luke Wilson, Vince Vaughn, Jeremy Piven, Juliette Lewis, Sean William Scott</nombre>
+    </interpretes>
+    <sinopsis>Mitch, Frank y Beanie son tres amigos treintañeros cuyas vidas no son exactamente lo que esperaban. Mitch tiene una novia ninfómana que se mete en la cama con el primero que agarra. Frank se ha casado y su matrimonio nada tiene que ver con las juergas salvajes que organizaban años atrás. Y Beanie es un padre de familia que se muere por recuperar su alocada juventud. Pero las cosas cambian cuando Beanie sugiere que creen su propia fraternidad, en la nueva casa que Mitch tiene junto al campus de la universidad. Una ocasión para revivir tiempos gloriosos, hacer nuevos amigos y de volver a sus viejas, salvajes y desmadradas juergas de estudiantes.</sinopsis>
+    <edad_minima>comedia autorizada para mayores de 16</edad_minima>
+    </pelicula>
+    <pelicula xmlns:pelicula2="https://www.filmaffinity.com/es/film161026.html">
+    <titulo_original>The Shawshank</titulo_original>
+    <duracion origen="EEUU">142 min</duracion>
+    <director>Frank Darabont</director>
+    <interpretes>
+        <nombre>Tim Robbins, Morgan Freeman, Bob Gunton, James Whitmore, Gil Bellows, William Sadler, Mark Rolston, Clancy Brown, David Proval, Jeffrey DeMunn, Jude Ciccolella, Don McManus, Alfonso Freeman</nombre>
+    </interpretes>
+    <sinopsis>Acusado del asesinato de su mujer, Andrew Dufresne (Tim Robbins), tras ser condenado a cadena perpetua, es enviado a la cárcel de Shawshank. Con el paso de los años conseguirá ganarse la confianza del director del centro y el respeto de sus compañeros de prisión, especialmente de Red (Morgan Freeman), el jefe de la mafia de los sobornos. </sinopsis>
+    <edad_minima>Para mayores de 16 años</edad_minima>
+    </pelicula>
+    <pelicula xmlns:pelicula3="https://www.filmaffinity.com/es/film135623.html">
+    <titulo_original>inside out</titulo_original>
+    <duracion origen="EEUU">94 min</duracion>
+    <director> Pete Docter, Ronaldo Del Carmen</director>
+    <interpretes>Animacion</interpretes>
+    <sinopsis>Riley es una chica que disfruta o padece toda clase de sentimientos. Aunque su vida ha estado marcada por la Alegría, también se ve afectada por otro tipo de emociones. Lo que Riley no entiende muy bien es por qué motivo tiene que existir la Tristeza en su vida. Una serie de acontecimientos hacen que Alegría y Tristeza se mezclen en una peligrosa aventura que dará un vuelco al mundo de Riley.</sinopsis>
+    <edad_minima>Recomendado para todos los publicos</edad_minima>
+    </pelicula>
+</peliculas>
